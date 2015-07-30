@@ -1,6 +1,6 @@
-FROM jackob/drill-base
+FROM jackobhsu/drill-base
 
-MAINTAINER jackob 
+MAINTAINER jackob hsu
 
 RUN mkdir /opt/drill
 RUN wget -q -O - http://getdrill.org/drill/download/apache-drill-1.1.0.tar.gz | tar -xzf - --strip=1 -C /opt/drill
