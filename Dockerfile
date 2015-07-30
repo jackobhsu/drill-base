@@ -1,4 +1,4 @@
-FROM jackobhsu/drill-base
+FROM dockerfile/java:oracle-java7
 
 MAINTAINER jackob hsu
 
