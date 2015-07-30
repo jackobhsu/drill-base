@@ -1,4 +1,4 @@
-FROM jackob/base
+FROM jackob/drill-base
 
 MAINTAINER jackob 
 
